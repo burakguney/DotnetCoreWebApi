@@ -12,6 +12,9 @@ namespace Business.DependencyResolvers.Autofac
         {
             builder.RegisterType<ProductManager>().As<IProductService>();
             builder.RegisterType<EfCoreProductDal>().As<IProductDal>();
+
+            builder.RegisterType<CategoryManager>().As<ICategoryService>();
+            builder.RegisterType<EfCoreCategoryDal>().As<ICategoryDal>();
         }
     }
 }
