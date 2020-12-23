@@ -1,0 +1,15 @@
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\Entities\obj\Debug\net5.0\Entities.pdb
