@@ -5,7 +5,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFrameworkCore
 {
-    public class EfCoreProductDal : EfCoreEntityRepositoryBase<Product, NorthwindContext>, IProductDal
+    public class EfCoreProductDal : EfCoreEntityRepositoryBase<Product, EfCoreDatabaseContext>, IProductDal
     {
 
     }

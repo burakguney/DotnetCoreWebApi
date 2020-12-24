@@ -5,7 +5,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFrameworkCore
 {
-    public class EfCoreCategoryDal : EfCoreEntityRepositoryBase<Category, NorthwindContext>, ICategoryDal
+    public class EfCoreCategoryDal : EfCoreEntityRepositoryBase<Category, EfCoreDatabaseContext>, ICategoryDal
     {
 
     }
