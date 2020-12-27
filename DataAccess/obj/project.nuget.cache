@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rco41b1eZoiuQe5BXQaAH0K/psqRXzFHeGapIcEWFpYqGGqzM5bSBEeYAEhR1r4fE3db5fRwtr17UqdKm7ULMQ==",
+  "dgSpecHash": "6YPnMXbqXbqH0+e9gbTky6P2iBPP4L7Ser1rV5+btRKPFVv7U6/8/RtI4Fym133ecn/S70tXlPUCWS/gXsa1kA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

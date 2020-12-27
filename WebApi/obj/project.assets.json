@@ -5709,11 +5709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5733,17 +5733,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj": {
-              "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj"
+            "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj"
             },
-            "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
-              "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
+            "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
             },
-            "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj"
             },
-            "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
-              "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj"
+            "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj"
             }
           }
         }

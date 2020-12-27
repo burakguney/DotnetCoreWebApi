@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
+    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -87,14 +87,14 @@
         }
       }
     },
-    "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,11 +114,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
+              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
               },
-              "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
-                "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj"
+              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
+    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -184,8 +184,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
+              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
               }
             }
           }
