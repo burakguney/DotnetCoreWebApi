@@ -1,3 +1,5 @@
+using Core.Entities.Concrete;
+
 namespace Business.Constants
 {
     public static class Messages
@@ -5,5 +7,6 @@ namespace Business.Constants
         public static string ProductAddedMessage = "Ürün başarıyla eklendi.";
         public static string ProductUpdatedMessage = "Ürün başarıyla güncellendi.";
         public static string ProductDeletedMessage = "Ürün başarıyla silindi.";
+        public static string UserNotFound = "Kullanıcı bulunamadı.";
     }
 }
