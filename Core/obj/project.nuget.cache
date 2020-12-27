@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SnbOpik9skAgMYWEXwq0kGtDJgpsAkkch45k42o4tlF4NvS/BQIjYyzlL3ImbXSI/OM36Ry2rsrm+cxBdOlPUA==",
+  "dgSpecHash": "eRMlZMS5UPlct6akbXnI3io29VAXY7QZK5O22ZxQbevU1WyhSXAcBzmsKKZawX8n+NEOhHi0RH2T9SsyV7ayJA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

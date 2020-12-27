@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHBdkYZO0dQmdwDuOahNM3/rVDE3p8xRWOBgJwXBOQyPQm+S0QVMbHdDdZ0032BlaBM95Y50Oj+u6BrE3AHf/A==",
+  "dgSpecHash": "B/mlO54KAJIU7FIztFxbh/rTSTFN7X28cwFe9m6nRcSURJwpV0saGvFtuPWu6D/NaNtlwJ2x4ILNVhuAKAau6A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

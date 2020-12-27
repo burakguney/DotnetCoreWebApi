@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3WQKTjFva3jD+XedIngGvvO5ARZv7wqY1xvqnDu1xF91PliFinOU7PMAfDsa8IfoX1c6z+c/QSwCU4dF5jr8Ag==",
+  "dgSpecHash": "Q4IK2dhQ0xEwREr1kMgri+9PXDtzCsSaRaMQbV0E4Cy8oeAZenoN4paGYPJPLIhJgeTfWTf1ENKhaRxgAodr2w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
