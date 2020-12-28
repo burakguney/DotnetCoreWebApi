@@ -6,6 +6,7 @@ using Business.Abstract;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using Entities.Concrete;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebApi.Controllers
 {
@@ -62,6 +63,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet(template: "getproductlist")]
+        [Authorize(Roles = "Product.List")]
         public IActionResult GetProductList()
         {
             var result = _productService.GetProductList();
