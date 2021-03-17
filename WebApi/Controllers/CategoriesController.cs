@@ -18,7 +18,7 @@ namespace WebApi.Controllers
             _categoryService = categoryService;
         }
 
-        [HttpGet(template: "getcategorylist")]
+        [HttpGet]
         public IActionResult GetCategoryList()
         {
             var result = _categoryService.GetCategoryList();

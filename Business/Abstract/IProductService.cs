@@ -9,7 +9,7 @@ namespace Business.Abstract
         IResult AddProduct(Product product);
         IResult UpdateProduct(Product product);
         IResult DeleteProduct(Product product);
-        IDataResult<Product> GetProductByProductId(int productId); //
+        IDataResult<Product> GetProductByProductId(int productId);
         IDataResult<List<Product>> GetProductList();
         IDataResult<List<Product>> GetProductListByCategoryId(int categoryId);
     }

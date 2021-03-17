@@ -20,50 +20,7 @@ namespace WebApi.Controllers
             _productService = productService;
         }
 
-        [HttpPost("addproduct")]
-        public IActionResult AddProduct(Product product)
-        {
-            var result = _productService.AddProduct(product);
-            if (result.Success)
-            {
-                return Ok(result.Message);
-            }
-            else
-            {
-                return BadRequest(result.Message);
-            }
-        }
-
-        [HttpPost("updateproduct")]
-        public IActionResult UpdateProduct(Product product)
-        {
-            var result = _productService.UpdateProduct(product);
-            if (result.Success)
-            {
-                return Ok(result.Message);
-            }
-            else
-            {
-                return BadRequest(result.Message);
-            }
-        }
-
-        [HttpPost("deleteproduct")]
-        public IActionResult DeleteProduct(Product product)
-        {
-            var result = _productService.DeleteProduct(product);
-            if (result.Success)
-            {
-                return Ok(result.Message);
-            }
-            else
-            {
-                return BadRequest(result.Message);
-            }
-        }
-
-        [HttpGet(template: "getproductlist")]
-        [Authorize(Roles = "Product.List")]
+        [HttpGet]
         public IActionResult GetProductList()
         {
             var result = _productService.GetProductList();
@@ -77,7 +34,52 @@ namespace WebApi.Controllers
             }
         }
 
-        [HttpGet(template: "getproductlistbycategoryid")]
+        [HttpPost]
+        [Authorize(Roles = "Admin")]
+        public IActionResult AddProduct(Product product)
+        {
+            var result = _productService.AddProduct(product);
+            if (result.Success)
+            {
+                return Ok(result.Message);
+            }
+            else
+            {
+                return BadRequest(result.Message);
+            }
+        }
+
+        [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")]
+        public IActionResult UpdateProduct(Product product)
+        {
+            var result = _productService.UpdateProduct(product);
+            if (result.Success)
+            {
+                return Ok(result.Message);
+            }
+            else
+            {
+                return BadRequest(result.Message);
+            }
+        }
+
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
+        public IActionResult DeleteProduct(Product product)
+        {
+            var result = _productService.DeleteProduct(product);
+            if (result.Success)
+            {
+                return Ok(result.Message);
+            }
+            else
+            {
+                return BadRequest(result.Message);
+            }
+        }
+
+        [HttpGet("getProducts")]
         public IActionResult GetProductListByCategoryId(int categoryId)
         {
             var result = _productService.GetProductListByCategoryId(categoryId);
@@ -91,7 +93,7 @@ namespace WebApi.Controllers
             }
         }
 
-        [HttpGet(template: "getproductbyproductid")]
+        [HttpGet("getProduct")]
         public IActionResult GetProductByProductId(int productId)
         {
             var result = _productService.GetProductByProductId(productId);

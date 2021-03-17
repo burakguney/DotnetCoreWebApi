@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {}
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -49,7 +46,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.4, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -61,11 +58,11 @@
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[6.8.0, )"
+              "version": "[6.9.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.8.0, )"
+              "version": "[6.9.0, )"
             }
           },
           "imports": [
@@ -83,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

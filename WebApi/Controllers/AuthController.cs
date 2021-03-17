@@ -15,7 +15,7 @@ namespace Auth.Controllers
             _authService = authService;
         }
 
-        [HttpPost(template: "login")]
+        [HttpPost("login")]
         public IActionResult Login(UserForLoginDto userForLoginDto)
         {
             var userToLogin = _authService.Login(userForLoginDto);
@@ -37,7 +37,7 @@ namespace Auth.Controllers
             }
         }
 
-        [HttpPost(template: "register")]
+        [HttpPost("register")]
         public IActionResult Register(UserForRegisterDto userForRegisterDto)
         {
             var userExists = _authService.UserExists(userForRegisterDto.Email);

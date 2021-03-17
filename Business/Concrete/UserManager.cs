@@ -20,7 +20,7 @@ namespace Business.Concrete
         }
         public User GetByMail(string email)
         {
-            return _userDal.Get(filter: u => u.Email == email);
+            return _userDal.Get(filter: user => user.Email == email);
         }
         public List<OperationClaim> GetClaims(User user)
         {

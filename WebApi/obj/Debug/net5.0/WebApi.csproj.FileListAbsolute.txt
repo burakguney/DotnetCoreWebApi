@@ -67,3 +67,4 @@ C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\WebApi\obj\Debug\net5.0\WebApi.dll
 C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\burak\Desktop\CORE\DotnetCoreWebApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\burak\Desktop\Core\DotnetCoreWebApi\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj": {}
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj": {
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Business\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -31,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
+              "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj"
               },
-              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj"
+              "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -73,22 +70,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -122,7 +116,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.4, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -134,11 +128,11 @@
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[6.8.0, )"
+              "version": "[6.9.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.8.0, )"
+              "version": "[6.9.0, )"
             }
           },
           "imports": [
@@ -156,22 +150,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -187,11 +178,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
+              "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj"
               },
-              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj"
+              "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -206,9 +197,15 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.4, )"
             }
           },
           "imports": [
@@ -226,22 +223,19 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
+    "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -257,8 +251,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\burak\\Desktop\\CORE\\DotnetCoreWebApi\\Core\\Core.csproj"
+              "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\burak\\Desktop\\Core\\DotnetCoreWebApi\\Core\\Core.csproj"
               }
             }
           }
@@ -287,7 +281,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -37,7 +37,7 @@ namespace Business.Concrete
 
         public IDataResult<Product> GetProductByProductId(int productId)
         {
-            return new SuccessDataResult<Product>(_productDal.Get(filter: p => p.ProductId == productId));
+            return new SuccessDataResult<Product>(_productDal.Get(filter: product => product.ProductId == productId));
         }
 
         public IDataResult<List<Product>> GetProductList()
@@ -47,7 +47,7 @@ namespace Business.Concrete
 
         public IDataResult<List<Product>> GetProductListByCategoryId(int categoryId)
         {
-            return new SuccessDataResult<List<Product>>(_productDal.GetList(filter: p => p.CategoryId == categoryId).ToList());
+            return new SuccessDataResult<List<Product>>(_productDal.GetList(filter: product => product.CategoryId == categoryId).ToList());
         }
 
     }
